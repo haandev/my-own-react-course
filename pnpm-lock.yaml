@@ -68,6 +68,21 @@ importers:
         specifier: ^7.28.3
         version: 7.28.3(@babel/core@7.28.4)
 
+  stages/stage4-useEffect:
+    devDependencies:
+      '@babel/cli':
+        specifier: ^7.28.3
+        version: 7.28.3(@babel/core@7.28.4)
+      '@babel/core':
+        specifier: ^7.28.4
+        version: 7.28.4
+      '@babel/plugin-transform-react-jsx':
+        specifier: ^7.27.1
+        version: 7.27.1(@babel/core@7.28.4)
+      '@babel/preset-env':
+        specifier: ^7.28.3
+        version: 7.28.3(@babel/core@7.28.4)
+
 packages:
 
   '@babel/cli@7.28.3':
